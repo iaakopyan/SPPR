@@ -12,9 +12,9 @@ lower_price = max([min(x) for x in matrix])
 upper_price = min([max(x) for x in np.rot90(matrix)])
 a= {lower_price, upper_price}
 if len(a)!=1:
-    print("Седловой точки нет")
+    print("\033[32mСедловой точки нет\033[39m")
 else:
-    print(f"Седловая точка:{a}")
+    print(f"\033[31mСедловая точка:{a}")
     exit(1)
 buff=0
 for i,pin in zip(matrix, P):
@@ -26,5 +26,5 @@ for k,i in enumerate(np.rot90(matrix),1):
 print('Вероятности выигрыша игрока А в данных ситуациях:')
 
 
-print('\033[32m  ',*(answer.items()), sep='\n')
+print('\033[35m',*(answer.items()), sep='\n')
 
