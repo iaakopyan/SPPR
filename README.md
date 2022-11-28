@@ -5,6 +5,5 @@
 
 Транспортные задачи:
 -
-![image](https://user-images.githubusercontent.com/82978703/204290840-02010546-0d3f-422a-bdb0-4e4124c3df8b.png)
-![image](https://user-images.githubusercontent.com/82978703/204291044-eb75cc4c-e19a-411e-ae5a-bcdb0009122b.png)
-
+![image](https://user-images.githubusercontent.com/82978703/204292353-01987594-39be-42ae-9017-4eba2a6672f6.png)
+![image](https://user-images.githubusercontent.com/82978703/204292425-df3890ab-5287-4599-a556-c9ed99d8320a.png)
