@@ -1,4 +1,6 @@
 SPPRlab2.ipynb - *вторая лаба*
+**Если 0 - отсутствие оценки:**
+books_ratings = books_ratings.loc[books_ratings['BookRating'] != 0]
 # SPPR
 Задача на стратегии:
 -
